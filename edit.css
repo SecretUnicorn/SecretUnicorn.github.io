@@ -67,24 +67,24 @@
 
 .edit .a {
     background-position: 0 0;
-    top: 108px;
+    top: 114px;
     left: 55px;
 }
 
 .edit .b {
     background-position: -49px 0;
-    top: 57px;
-    right: 3px;
+    top: 63px;
+    right: 0px;
 }
 
 .edit .x {
     background-position: -98px 0;
-    top: 57px;
+    top: 63px;
     left: 4px;
 }
 
 .edit .y {
     background-position: 48px 0;
     left: 55px;
-    top: 5px;
+    top: 13px;
 }
