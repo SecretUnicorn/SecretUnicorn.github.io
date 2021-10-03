@@ -33,6 +33,14 @@
     opacity: 0;
 }
 
+.edit .bumper {
+    background: url(assets/bumper.svgz);
+}
+
+.edit .trigger {
+    background: url(assets/trigger.svgz);
+}
+
 .edit .back.pressed, .edit .start.pressed {
     opacity: 1;
 }
