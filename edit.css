@@ -34,11 +34,11 @@
 }
 
 .edit .bumper {
-    background: url(assets/bumper.svgz);
+    background: url(assets/bumper.svg);
 }
 
 .edit .trigger {
-    background: url(assets/trigger.svgz);
+    background: url(assets/trigger.svg);
 }
 
 .edit .back.pressed, .edit .start.pressed {
