@@ -33,11 +33,11 @@
     opacity: 0;
 }
 
-.edit .bumpers {
+.edit .bumper {
     background: url(assets/bumper.svg);
 }
 
-.edit .triggers {
+.edit .trigger {
     background: url(assets/trigger.svg);
 }
 
